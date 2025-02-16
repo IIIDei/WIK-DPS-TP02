@@ -94,5 +94,6 @@ trivy --version
 
 ### Scanner l'image
 ```bash
+sudo trivy image ping-api-single
 sudo trivy image ping-api-multi
 ```
